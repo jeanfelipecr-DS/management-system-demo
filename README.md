@@ -13,7 +13,7 @@ dados 100% fictícios.**
 - **Ordens de serviço** com status (aberta / em andamento / pronto) e **estoque** com alerta de reposição.
 - Mockup estático single-file. O produto real é um **SaaS multi-tenant** (React · TypeScript · Supabase · Postgres **RLS**) — código de cliente, privado.
 
-Parte do portfólio de **Jean Felipe Carneiro** — Analista de Dados & BI · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
+Parte do portfólio de **Jean Felipe Carneiro** — Analista de Dados · Analytics Engineering · Fundação dos Dados · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
 
 <details>
 <summary>🇬🇧 <b>English</b></summary>
@@ -33,5 +33,5 @@ on top. **Illustrative mockup, 100% synthetic data.**
 - **Work orders** with status (open / in progress / done) and **inventory** with restock alerts.
 - Static single-file mockup. The real product is a **multi-tenant SaaS** (React · TypeScript · Supabase · Postgres **RLS**) — private client code.
 
-Part of the portfolio of **Jean Felipe Carneiro** — Data Analyst & BI · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
+Part of the portfolio of **Jean Felipe Carneiro** — Data Analyst · Analytics Engineering · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
 </details>
